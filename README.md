@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Hi I am Noah, I am currently enrolled at Ball State University and I am working towards my bachelors in Computer Science. I have a concentration in Data Analytics and Machine Learning
+
+- 🌱 I’m currently learning R and Tableau 
+- 👯 I’m looking to collaborate on open source projects that deal with data science and analytics.
+  - Reach out at noahlopez595@gmail.com 
+- 😄 Pronouns: He/Him
+
 <!--
 **NFSilvaLopez/NFSilvaLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
