@@ -2,7 +2,7 @@
 
 Hi I am Noah, I am currently enrolled at Ball State University and I am working towards my bachelors in Computer Science. I have a concentration in Data Analytics and Machine Learning
 
-- 🌱 I’m currently learning R and Tableau 
+- 🌱 I’m currently learning Go, React.js, and PostgreSQL
 - 👯 I’m looking to collaborate on open source projects that deal with data science and analytics.
   - Reach out at noahlopez595@gmail.com 
 - 😄 Pronouns: He/Him
